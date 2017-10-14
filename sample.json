@@ -1,0 +1,2305 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "history": 1
+  }
+	}
+		,
+	"history": {
+		"date": {
+		"pretty": "April 5, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "12",
+		"min": "00",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "April 5, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "16",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"observations": [
+		{
+		"date": {
+		"pretty": "12:15 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "00",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "4:15 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "04",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"60","wdire":"ENE","vism":"8.0", "visi":"5.0","pressurem":"1007.7", "pressurei":"29.76","windchillm":"6.1", "windchilli":"42.9","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050415Z 06006KT 5SM OVC007 08/07 A2976 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "12:35 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "00",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "4:35 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "04",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"80","wdire":"East","vism":"9.7", "visi":"6.0","pressurem":"1007.7", "pressurei":"29.76","windchillm":"6.4", "windchilli":"43.5","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050435Z 08005KT 6SM OVC007 08/07 A2976 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "12:55 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "00",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "4:55 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "04",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"30","wdire":"NNE","vism":"6.4", "visi":"4.0","pressurem":"1007.7", "pressurei":"29.76","windchillm":"6.8", "windchilli":"44.3","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050455Z 03004KT 4SM OVC007 08/07 A2976 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "12:56 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "00",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "4:56 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "04",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"8.3", "tempi":"46.9","dewptm":"6.7", "dewpti":"44.1","hum":"90","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"40","wdire":"NE","vism":"6.4", "visi":"4.0","pressurem":"1007.7", "pressurei":"29.76","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050456Z AUTO 04004KT 4SM BR OVC007 08/07 A2976 RMK AO2 SLPNO T00830067 400890078" },
+		{
+		"date": {
+		"pretty": "1:15 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "01",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "5:15 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "05",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"30","wdire":"NNE","vism":"4.8", "visi":"3.0","pressurem":"1007.7", "pressurei":"29.76","windchillm":"7.3", "windchilli":"45.2","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050515Z 03003KT 3SM OVC007 08/07 A2976 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "1:35 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "01",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "5:35 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "05",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"60","wdire":"ENE","vism":"4.8", "visi":"3.0","pressurem":"1007.7", "pressurei":"29.76","windchillm":"6.8", "windchilli":"44.3","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050535Z 06004KT 3SM OVC007 08/07 A2976 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "1:43 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "01",
+		"min": "43",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "5:43 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "05",
+		"min": "43",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"70","wdire":"ENE","vism":"4.0", "visi":"2.5","pressurem":"1007.7", "pressurei":"29.76","windchillm":"7.3", "windchilli":"45.2","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 050543Z AUTO 07003KT 2 1/2SM BR OVC007 08/07 A2976 RMK AO2 TSNO" },
+		{
+		"date": {
+		"pretty": "1:55 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "01",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "5:55 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "05",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"150","wdire":"SSE","vism":"4.0", "visi":"2.5","pressurem":"1007.7", "pressurei":"29.76","windchillm":"7.3", "windchilli":"45.2","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050555Z 15003KT 2 1/2SM OVC007 08/07 A2976 RMK AO2 10090 21610 52003 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "1:56 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "01",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "5:56 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "05",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"7.8", "tempi":"46.0","dewptm":"6.7", "dewpti":"44.1","hum":"93","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"4.0", "visi":"2.5","pressurem":"1007.7", "pressurei":"29.76","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050556Z AUTO 00000KT 2 1/2SM BR OVC007 08/07 A2976 RMK AO2 SLPNO 6//// T00780067 50004" },
+		{
+		"date": {
+		"pretty": "2:15 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "02",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "6:15 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "06",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"60","wdire":"ENE","vism":"4.0", "visi":"2.5","pressurem":"1008.0", "pressurei":"29.77","windchillm":"6.8", "windchilli":"44.3","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050615Z 06004KT 2 1/2SM OVC007 08/07 A2977 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "2:35 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "02",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "6:35 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "06",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"4.0", "visi":"2.5","pressurem":"1008.0", "pressurei":"29.77","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050635Z 00000KT 2 1/2SM OVC007 08/07 A2977 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "2:55 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "02",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "6:55 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "06",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"50","wdire":"NE","vism":"4.8", "visi":"3.0","pressurem":"1008.0", "pressurei":"29.77","windchillm":"6.8", "windchilli":"44.3","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050655Z 05004KT 3SM OVC007 08/07 A2977 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "2:56 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "02",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "6:56 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "06",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"8.3", "tempi":"46.9","dewptm":"7.2", "dewpti":"45.0","hum":"93","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"60","wdire":"ENE","vism":"4.8", "visi":"3.0","pressurem":"1008.0", "pressurei":"29.77","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050656Z AUTO 06004KT 3SM BR OVC007 08/07 A2977 RMK AO2 SLPNO T00830072" },
+		{
+		"date": {
+		"pretty": "3:15 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "03",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "7:15 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "07",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"4.8", "visi":"3.0","pressurem":"1008.0", "pressurei":"29.77","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050715Z 00000KT 3SM OVC007 08/07 A2977 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "3:35 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "03",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "7:35 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "07",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"5.6", "visi":"3.5","pressurem":"1008.4", "pressurei":"29.78","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050735Z 00000KT 3 1/2SM OVC007 08/07 A2978 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "3:55 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "03",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "7:55 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "07",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"6.0", "dewpti":"42.8","hum":"93","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"240","wdire":"WSW","vism":"3.2", "visi":"2.0","pressurem":"1008.7", "pressurei":"29.79","windchillm":"5.2", "windchilli":"41.4","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050755Z 24005KT 2SM OVC007 07/06 A2979 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "3:56 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "03",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "7:56 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "07",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"7.2", "tempi":"45.0","dewptm":"6.1", "dewpti":"43.0","hum":"93","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"260","wdire":"West","vism":"2.8", "visi":"1.8","pressurem":"1008.7", "pressurei":"29.79","windchillm":"6.4", "windchilli":"43.5","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050756Z AUTO 26003KT 1 3/4SM BR OVC007 07/06 A2979 RMK AO2 CIG 004V007 SLPNO T00720061" },
+		{
+		"date": {
+		"pretty": "4:00 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "04",
+		"min": "00",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "8:00 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "08",
+		"min": "00",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"1.6", "visi":"1.0","pressurem":"1008.7", "pressurei":"29.79","windchillm":"6.2", "windchilli":"43.1","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 050800Z AUTO 27003KT 1SM BR OVC005 07/07 A2979 RMK AO2 CIG 003V007" },
+		{
+		"date": {
+		"pretty": "4:05 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "04",
+		"min": "05",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "8:05 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "08",
+		"min": "05",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"240","wdire":"WSW","vism":"0.8", "visi":"0.5","pressurem":"1008.7", "pressurei":"29.79","windchillm":"6.2", "windchilli":"43.1","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Fog","icon":"fog","fog":"1","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 050805Z AUTO 24003KT 1/2SM FG BKN003 OVC007 07/07 A2979 RMK AO2" },
+		{
+		"date": {
+		"pretty": "4:15 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "04",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "8:15 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "08",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"240","wdire":"WSW","vism":"0.8", "visi":"0.5","pressurem":"1008.7", "pressurei":"29.79","windchillm":"6.2", "windchilli":"43.1","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050815Z 24003KT 1/2SM OVC003 07/07 A2979 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "4:30 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "04",
+		"min": "30",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "8:30 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "08",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"1.2", "visi":"0.8","pressurem":"1009.0", "pressurei":"29.80","windchillm":"6.2", "windchilli":"43.1","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 050830Z AUTO 27003KT 3/4SM BR OVC003 07/07 A2980 RMK AO2" },
+		{
+		"date": {
+		"pretty": "4:35 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "04",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "8:35 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "08",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"260","wdire":"West","vism":"1.6", "visi":"1.0","pressurem":"1009.0", "pressurei":"29.80","windchillm":"5.2", "windchilli":"41.4","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050835Z 26005KT 1SM OVC003 07/07 A2980 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "4:55 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "04",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "8:55 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "08",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"240","wdire":"WSW","vism":"2.0", "visi":"1.2","pressurem":"1009.4", "pressurei":"29.81","windchillm":"5.2", "windchilli":"41.4","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050855Z 24005KT 1 1/4SM OVC003 07/07 A2981 RMK AO2 52017 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "4:56 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "04",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "8:56 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "08",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"7.2", "tempi":"45.0","dewptm":"6.7", "dewpti":"44.1","hum":"97","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"240","wdire":"WSW","vism":"2.0", "visi":"1.2","pressurem":"1009.4", "pressurei":"29.81","windchillm":"5.5", "windchilli":"41.8","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050856Z AUTO 24005KT 1 1/4SM BR OVC003 07/07 A2981 RMK AO2 SLPNO T00720067 53016" },
+		{
+		"date": {
+		"pretty": "5:15 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "05",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "9:15 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "09",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"260","wdire":"West","vism":"2.0", "visi":"1.2","pressurem":"1009.4", "pressurei":"29.81","windchillm":"6.2", "windchilli":"43.1","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050915Z 26003KT 1 1/4SM OVC003 07/07 A2981 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "5:35 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "05",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "9:35 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "09",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"1.6", "visi":"1.0","pressurem":"1009.7", "pressurei":"29.82","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050935Z 00000KT 1SM OVC003 07/07 A2982 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "5:38 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "05",
+		"min": "38",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "9:38 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "09",
+		"min": "38",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"1.6", "visi":"1.0","pressurem":"1009.7", "pressurei":"29.82","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 050938Z AUTO 00000KT 1SM BR OVC003 07/07 A2982 RMK AO2" },
+		{
+		"date": {
+		"pretty": "5:55 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "05",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "9:55 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "09",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"1.2", "visi":"0.8","pressurem":"1010.0", "pressurei":"29.83","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050955Z 00000KT 3/4SM OVC003 07/07 A2983 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "5:56 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "05",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "9:56 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "09",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"7.2", "tempi":"45.0","dewptm":"6.7", "dewpti":"44.1","hum":"97","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"1.6", "visi":"1.0","pressurem":"1010.0", "pressurei":"29.83","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 050956Z AUTO 00000KT 1SM BR OVC003 07/07 A2983 RMK AO2 SLPNO T00720067" },
+		{
+		"date": {
+		"pretty": "6:04 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "06",
+		"min": "04",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "10:04 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "10",
+		"min": "04",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"1.2", "visi":"0.8","pressurem":"1010.0", "pressurei":"29.83","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 051004Z AUTO 00000KT 3/4SM BR OVC003 07/07 A2983 RMK AO2" },
+		{
+		"date": {
+		"pretty": "6:15 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "06",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "10:15 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "10",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"280","wdire":"West","vism":"1.6", "visi":"1.0","pressurem":"1010.4", "pressurei":"29.84","windchillm":"6.2", "windchilli":"43.1","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051015Z 28003KT 1SM OVC003 07/07 A2984 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "6:19 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "06",
+		"min": "19",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "10:19 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "10",
+		"min": "19",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"2.0", "visi":"1.2","pressurem":"1010.7", "pressurei":"29.85","windchillm":"6.2", "windchilli":"43.1","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 051019Z AUTO 27003KT 1 1/4SM BR OVC003 07/07 A2985 RMK AO2" },
+		{
+		"date": {
+		"pretty": "6:30 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "06",
+		"min": "30",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "10:30 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "10",
+		"min": "30",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"1.2", "visi":"0.8","pressurem":"1011.1", "pressurei":"29.86","windchillm":"5.7", "windchilli":"42.2","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 051030Z AUTO 27004KT 3/4SM BR OVC003 07/07 A2986 RMK AO2 TSNO" },
+		{
+		"date": {
+		"pretty": "6:35 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "06",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "10:35 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "10",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"0.8", "visi":"0.5","pressurem":"1011.1", "pressurei":"29.86","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051035Z 00000KT 1/2SM OVC003 07/07 A2986 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "6:39 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "06",
+		"min": "39",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "10:39 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "10",
+		"min": "39",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"0.8", "visi":"0.5","pressurem":"1011.1", "pressurei":"29.86","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Fog","icon":"fog","fog":"1","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 051039Z AUTO 00000KT 1/2SM FG OVC003 07/07 A2986 RMK AO2" },
+		{
+		"date": {
+		"pretty": "6:55 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "06",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "10:55 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "10",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"0.8", "visi":"0.5","pressurem":"1011.7", "pressurei":"29.88","windchillm":"6.2", "windchilli":"43.1","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051055Z 27003KT 1/2SM OVC003 07/07 A2988 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "6:56 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "06",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "10:56 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "10",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"7.2", "tempi":"45.0","dewptm":"6.7", "dewpti":"44.1","hum":"97","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"0.8", "visi":"0.5","pressurem":"1012.1", "pressurei":"29.89","windchillm":"5.9", "windchilli":"42.6","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Fog","icon":"fog","fog":"1","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051056Z AUTO 27004KT 1/2SM FG OVC003 07/07 A2989 RMK AO2 PRESRR SLPNO T00720067" },
+		{
+		"date": {
+		"pretty": "7:06 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "07",
+		"min": "06",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "11:06 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "11",
+		"min": "06",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"260","wdire":"West","vism":"1.2", "visi":"0.8","pressurem":"1012.1", "pressurei":"29.89","windchillm":"6.2", "windchilli":"43.1","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 051106Z AUTO 26003KT 3/4SM BR OVC003 07/07 A2989 RMK AO2 CIG 002V005" },
+		{
+		"date": {
+		"pretty": "7:15 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "07",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "11:15 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "11",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"0.8", "visi":"0.5","pressurem":"1012.4", "pressurei":"29.90","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051115Z 00000KT 1/2SM OVC003 07/07 A2990 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "7:16 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "07",
+		"min": "16",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "11:16 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "11",
+		"min": "16",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"0.8", "visi":"0.5","pressurem":"1012.1", "pressurei":"29.89","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Fog","icon":"fog","fog":"1","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 051116Z AUTO 00000KT 1/2SM FG OVC003 07/07 A2989 RMK AO2 CIG 002V005" },
+		{
+		"date": {
+		"pretty": "7:35 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "07",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "11:35 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "11",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"0.4", "visi":"0.2","pressurem":"1012.4", "pressurei":"29.90","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051135Z 00000KT 1/4SM OVC003 07/07 A2990 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "7:51 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "07",
+		"min": "51",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "11:51 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "11",
+		"min": "51",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"7.0", "dewpti":"44.6","hum":"100","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"0.8", "visi":"0.5","pressurem":"1012.4", "pressurei":"29.90","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Fog","icon":"fog","fog":"1","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 051151Z AUTO 00000KT 1/2SM FG OVC003 07/07 A2990 RMK AO2" },
+		{
+		"date": {
+		"pretty": "7:55 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "07",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "11:55 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "11",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"1.2", "visi":"0.8","pressurem":"1012.4", "pressurei":"29.90","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051155Z 00000KT 3/4SM OVC003 08/07 A2990 RMK AO2 10080 20070 52030 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "7:56 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "07",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "11:56 AM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "11",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"7.8", "tempi":"46.0","dewptm":"7.2", "dewpti":"45.0","hum":"96","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"1.2", "visi":"0.8","pressurem":"1012.4", "pressurei":"29.90","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051156Z AUTO 00000KT 3/4SM BR OVC003 08/07 A2990 RMK AO2 SLPNO 7//// T00780072 10083 20072 51024" },
+		{
+		"date": {
+		"pretty": "8:11 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "08",
+		"min": "11",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "12:11 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "12",
+		"min": "11",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"240","wdire":"WSW","vism":"2.0", "visi":"1.2","pressurem":"1012.4", "pressurei":"29.90","windchillm":"7.3", "windchilli":"45.2","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 051211Z AUTO 24003KT 1 1/4SM BR OVC003 08/07 A2990 RMK AO2" },
+		{
+		"date": {
+		"pretty": "8:15 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "08",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "12:15 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "12",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"260","wdire":"West","vism":"2.0", "visi":"1.2","pressurem":"1012.8", "pressurei":"29.91","windchillm":"7.3", "windchilli":"45.2","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051215Z 26003KT 1 1/4SM OVC003 08/07 A2991 RMK AO2 PWINO FZRANO TSNO RVRNO" },
+		{
+		"date": {
+		"pretty": "8:22 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "08",
+		"min": "22",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "12:22 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "12",
+		"min": "22",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"260","wdire":"West","vism":"1.6", "visi":"1.0","pressurem":"1012.8", "pressurei":"29.91","windchillm":"7.3", "windchilli":"45.2","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 051222Z AUTO 26003KT 1SM BR OVC003 08/07 A2991 RMK AO2" },
+		{
+		"date": {
+		"pretty": "8:32 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "08",
+		"min": "32",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "12:32 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "12",
+		"min": "32",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"2.8", "visi":"1.8","pressurem":"1013.1", "pressurei":"29.92","windchillm":"7.3", "windchilli":"45.2","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 051232Z AUTO 27003KT 1 3/4SM BR OVC003 08/07 A2992 RMK AO2" },
+		{
+		"date": {
+		"pretty": "8:35 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "08",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "12:35 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "12",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"3.2", "visi":"2.0","pressurem":"1013.1", "pressurei":"29.92","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051235Z 00000KT 2SM OVC003 08/07 A2992 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "8:40 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "08",
+		"min": "40",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "12:40 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "12",
+		"min": "40",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"250","wdire":"WSW","vism":"4.0", "visi":"2.5","pressurem":"1013.1", "pressurei":"29.92","windchillm":"6.8", "windchilli":"44.3","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 051240Z AUTO 25004KT 2 1/2SM BR OVC003 08/07 A2992 RMK AO2" },
+		{
+		"date": {
+		"pretty": "8:55 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "08",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "12:55 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "12",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"240","wdire":"WSW","vism":"4.0", "visi":"2.5","pressurem":"1013.4", "pressurei":"29.93","windchillm":"6.8", "windchilli":"44.3","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051255Z 24004KT 2 1/2SM OVC003 08/07 A2993 RMK AO2 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "8:56 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "08",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "12:56 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "12",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"7.8", "tempi":"46.0","dewptm":"7.2", "dewpti":"45.0","hum":"96","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"240","wdire":"WSW","vism":"4.0", "visi":"2.5","pressurem":"1013.4", "pressurei":"29.93","windchillm":"7.1", "windchilli":"44.8","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051256Z AUTO 24003KT 2 1/2SM BR OVC003 08/07 A2993 RMK AO2 SLPNO T00780072" },
+		{
+		"date": {
+		"pretty": "9:04 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "09",
+		"min": "04",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "1:04 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "13",
+		"min": "04",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"250","wdire":"WSW","vism":"4.8", "visi":"3.0","pressurem":"1013.4", "pressurei":"29.93","windchillm":"7.3", "windchilli":"45.2","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 051304Z AUTO 25003KT 3SM BR OVC003 08/07 A2993 RMK AO2" },
+		{
+		"date": {
+		"pretty": "9:15 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "09",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "1:15 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "13",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"7.0", "dewpti":"44.6","hum":"93","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"4.8", "visi":"3.0","pressurem":"1029.9", "pressurei":"30.42","windchillm":"7.3", "windchilli":"45.2","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051315Z 27003KT 3SM OVC003 08/07 A2993 RMK AO2 SLP299 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "9:35 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "09",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "1:35 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "13",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"9.0", "tempi":"48.2","dewptm":"8.0", "dewpti":"46.4","hum":"93","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"200","wdire":"SSW","vism":"4.8", "visi":"3.0","pressurem":"1029.9", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051335Z 20005KT 3SM OVC003 09/08 A2993 RMK AO2 SLP299 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "9:56 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "09",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "1:56 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "13",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"10.6", "tempi":"51.1","dewptm":"7.8", "dewpti":"46.0","hum":"83","wspdm":"24.1", "wspdi":"15.0","wgustm":"77.8", "wgusti":"48.3","wdird":"260","wdire":"West","vism":"6.4", "visi":"4.0","pressurem":"1013.7", "pressurei":"29.94","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"0.3", "precipi":"0.01","conds":"Haze","icon":"hazy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051356Z AUTO 26013G42KT 210V290 4SM HZ OVC003 11/08 A2994 RMK AO2 PK WND 29042/1355 SLP137 P0001 T01060078 TSNO" },
+		{
+		"date": {
+		"pretty": "10:15 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "10",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "2:15 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "14",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"11.0", "tempi":"51.8","dewptm":"8.0", "dewpti":"46.4","hum":"82","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"6.4", "visi":"4.0","pressurem":"1029.9", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051415Z VRB04KT 4SM SCT003 BKN038 11/08 A2995 RMK AO2 SLP299 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "10:16 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "10",
+		"min": "16",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "2:16 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "14",
+		"min": "16",
+		"tzname": "UTC"
+		},
+		"tempm":"11.0", "tempi":"51.8","dewptm":"8.0", "dewpti":"46.4","hum":"82","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"6.4", "visi":"4.0","pressurem":"1014.1", "pressurei":"29.95","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Haze","icon":"hazy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 051416Z AUTO VRB06KT 4SM HZ SCT005 BKN038 11/08 A2995 RMK AO2" },
+		{
+		"date": {
+		"pretty": "10:35 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "10",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "2:35 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "14",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"10.0", "tempi":"50.0","dewptm":"7.0", "dewpti":"44.6","hum":"82","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"260","wdire":"West","vism":"8.0", "visi":"5.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051435Z 26004KT 5SM BKN038 10/07 A2995 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "10:55 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "10",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "2:55 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "14",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"10.0", "tempi":"50.0","dewptm":"8.0", "dewpti":"46.4","hum":"87","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"8.0", "visi":"5.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051455Z 27004KT 5SM OVC036 10/08 A2995 RMK AO2 SLP300 52017 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "10:56 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "10",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "2:56 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "14",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"10.0", "tempi":"50.0","dewptm":"7.8", "dewpti":"46.0","hum":"86","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"260","wdire":"West","vism":"8.0", "visi":"5.0","pressurem":"1014.2", "pressurei":"29.95","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051456Z AUTO 26004KT 5SM BR OVC036 10/08 A2995 RMK AO2 PK WND 27034/1430 SLP142 60001 T01000078 51018" },
+		{
+		"date": {
+		"pretty": "11:15 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "11",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "3:15 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "15",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"9.0", "tempi":"48.2","dewptm":"7.0", "dewpti":"44.6","hum":"87","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"8.0", "visi":"5.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051515Z VRB06KT 5SM OVC032 09/07 A2996 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "11:35 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "11",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "3:35 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "15",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"10.0", "tempi":"50.0","dewptm":"7.0", "dewpti":"44.6","hum":"82","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"250","wdire":"WSW","vism":"8.0", "visi":"5.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051535Z 25005KT 5SM OVC036 10/07 A2995 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "11:55 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "11",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "3:55 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "15",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"11.0", "tempi":"51.8","dewptm":"7.0", "dewpti":"44.6","hum":"76","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"8.0", "visi":"5.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051555Z VRB04KT 5SM OVC038 11/07 A2995 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "11:56 AM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "11",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "3:56 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "15",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"10.6", "tempi":"51.1","dewptm":"7.2", "dewpti":"45.0","hum":"80","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"9.7", "visi":"6.0","pressurem":"1014.2", "pressurei":"29.95","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Haze","icon":"hazy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051556Z AUTO VRB03KT 6SM HZ OVC038 11/07 A2995 RMK AO2 SLP142 T01060072" },
+		{
+		"date": {
+		"pretty": "12:15 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "12",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "4:15 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "16",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"11.0", "tempi":"51.8","dewptm":"8.0", "dewpti":"46.4","hum":"82","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"250","wdire":"WSW","vism":"9.7", "visi":"6.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051615Z 25003KT 6SM OVC038 11/08 A2995 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "12:35 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "12",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "4:35 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "16",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"11.0", "tempi":"51.8","dewptm":"7.0", "dewpti":"44.6","hum":"76","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"11.3", "visi":"7.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051635Z VRB03KT 7SM OVC038 11/07 A2996 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "12:55 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "12",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "4:55 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "16",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"7.0", "dewpti":"44.6","hum":"72","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"11.3", "visi":"7.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051655Z VRB03KT 7SM OVC038 12/07 A2995 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "12:56 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "12",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "4:56 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "16",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"11.7", "tempi":"53.1","dewptm":"7.2", "dewpti":"45.0","hum":"74","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"11.3", "visi":"7.0","pressurem":"1014.1", "pressurei":"29.95","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051656Z AUTO VRB05KT 7SM OVC038 12/07 A2995 RMK AO2 PK WND 29043/1622 SLP141 T01170072" },
+		{
+		"date": {
+		"pretty": "1:15 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "13",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "5:15 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "17",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"7.0", "dewpti":"44.6","hum":"72","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"12.9", "visi":"8.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051715Z VRB06KT 8SM OVC040 12/07 A2995 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "1:35 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "13",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "5:35 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "17",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"13.0", "tempi":"55.4","dewptm":"7.0", "dewpti":"44.6","hum":"67","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"14.5", "visi":"9.0","pressurem":"1029.9", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Overcast","icon":"cloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051735Z 27006KT 9SM OVC042 13/07 A2995 RMK AO2 SLP299 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "1:55 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "13",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "5:55 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "17",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"14.0", "tempi":"57.2","dewptm":"7.0", "dewpti":"44.6","hum":"63","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"16.1", "visi":"10.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051755Z VRB04KT 10SM BKN042 14/07 A2995 RMK AO2 SLP300 10140 20080 54000 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "1:56 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "13",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "5:56 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "17",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"13.9", "tempi":"57.0","dewptm":"7.2", "dewpti":"45.0","hum":"64","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"12.9", "visi":"8.0","pressurem":"1014.1", "pressurei":"29.95","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051756Z AUTO VRB06KT 8SM BKN042 14/07 A2995 RMK AO2 SLP141 60001 T01390072 10139 20078 57001" },
+		{
+		"date": {
+		"pretty": "2:35 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "14",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "6:35 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "18",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"15.0", "tempi":"59.0","dewptm":"6.0", "dewpti":"42.8","hum":"55","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"220","wdire":"SW","vism":"16.1", "visi":"10.0","pressurem":"1029.9", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051835Z 22008KT 160V020 10SM BKN042 15/06 A2994 RMK AO2 SLP299 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "2:55 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "14",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "6:55 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "18",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"6.0", "dewpti":"42.8","hum":"52","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"16.1", "visi":"10.0","pressurem":"1029.9", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051855Z VRB03KT 10SM SCT044 16/06 A2993 RMK AO2 SLP299 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "2:56 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "14",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "6:56 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "18",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"16.1", "tempi":"61.0","dewptm":"6.1", "dewpti":"43.0","hum":"52","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"16.1", "visi":"10.0","pressurem":"1013.5", "pressurei":"29.93","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051856Z AUTO VRB03KT 10SM SCT044 16/06 A2993 RMK AO2 PK WND 27031/1834 SLP135 T01610061" },
+		{
+		"date": {
+		"pretty": "3:15 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "15",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "7:15 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "19",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"6.0", "dewpti":"42.8","hum":"52","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"16.1", "visi":"10.0","pressurem":"1029.9", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051915Z 27004KT 10SM CLR 16/06 A2993 RMK AO2 SLP299 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "3:35 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "15",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "7:35 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "19",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"6.0", "dewpti":"42.8","hum":"52","wspdm":"0.0", "wspdi":"0.0","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"North","vism":"16.1", "visi":"10.0","pressurem":"1029.9", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Partly Cloudy","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051935Z 00000KT 10SM FEW045 16/06 A2992 RMK AO2 SLP299 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "3:55 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "15",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "7:55 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "19",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"7.0", "dewpti":"44.6","hum":"55","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"16.1", "visi":"10.0","pressurem":"1029.9", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Partly Cloudy","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051955Z VRB05KT 10SM FEW045 16/07 A2993 RMK AO2 SLP299 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "3:56 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "15",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "7:56 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "19",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"16.1", "tempi":"61.0","dewptm":"7.2", "dewpti":"45.0","hum":"56","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"16.1", "visi":"10.0","pressurem":"1013.5", "pressurei":"29.93","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Partly Cloudy","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 051956Z AUTO VRB06KT 10SM FEW045 16/07 A2993 RMK AO2 SLP135 T01610072" },
+		{
+		"date": {
+		"pretty": "4:15 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "16",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "8:15 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "20",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"17.0", "tempi":"62.6","dewptm":"7.0", "dewpti":"44.6","hum":"52","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"16.1", "visi":"10.0","pressurem":"1029.9", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 052015Z VRB04KT 10SM CLR 17/07 A2994 RMK AO2 SLP299 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "4:35 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "16",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "8:35 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "20",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"17.0", "tempi":"62.6","dewptm":"7.0", "dewpti":"44.6","hum":"52","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"270","wdire":"West","vism":"16.1", "visi":"10.0","pressurem":"1029.9", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 052035Z 27004KT 10SM CLR 17/07 A2993 RMK AO2 SLP299 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "4:55 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "16",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "8:55 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "20",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"17.0", "tempi":"62.6","dewptm":"7.0", "dewpti":"44.6","hum":"52","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"16.1", "visi":"10.0","pressurem":"1029.9", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 052055Z VRB04KT 10SM CLR 17/07 A2993 RMK AO2 SLP299 57007 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "4:56 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "16",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "8:56 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "20",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"16.7", "tempi":"62.1","dewptm":"7.2", "dewpti":"45.0","hum":"53","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"14.5", "visi":"9.0","pressurem":"1013.3", "pressurei":"29.93","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 052056Z AUTO VRB03KT 9SM CLR 17/07 A2993 RMK AO2 PK WND 28038/2035 SLP133 T01670072 56007" },
+		{
+		"date": {
+		"pretty": "5:15 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "17",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "9:15 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "21",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"17.0", "tempi":"62.6","dewptm":"7.0", "dewpti":"44.6","hum":"52","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"14.5", "visi":"9.0","pressurem":"1029.9", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 052115Z VRB03KT 9SM CLR 17/07 A2994 RMK AO2 SLP299 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "5:35 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "17",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "9:35 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "21",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"7.0", "dewpti":"44.6","hum":"55","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"14.5", "visi":"9.0","pressurem":"1029.9", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 052135Z VRB03KT 9SM CLR 16/07 A2994 RMK AO2 SLP299 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "5:55 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "17",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "9:55 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "21",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"16.0", "tempi":"60.8","dewptm":"7.0", "dewpti":"44.6","hum":"55","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"14.5", "visi":"9.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 052155Z VRB05KT 9SM CLR 16/07 A2995 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "5:56 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "17",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "9:56 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "21",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"16.1", "tempi":"61.0","dewptm":"6.7", "dewpti":"44.1","hum":"54","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"110","wdire":"ESE","vism":"14.5", "visi":"9.0","pressurem":"1014.3", "pressurei":"29.96","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 052156Z AUTO 11005KT 9SM CLR 16/07 A2995 RMK AO2 PK WND 29027/2143 SLP143 T01610067" },
+		{
+		"date": {
+		"pretty": "6:15 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "18",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "10:15 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "22",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"14.0", "tempi":"57.2","dewptm":"7.0", "dewpti":"44.6","hum":"63","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"140","wdire":"SE","vism":"16.1", "visi":"10.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 052215Z 14007KT 10SM CLR 14/07 A2996 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "6:35 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "18",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "10:35 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "22",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"12.0", "tempi":"53.6","dewptm":"7.0", "dewpti":"44.6","hum":"72","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"120","wdire":"ESE","vism":"16.1", "visi":"10.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 052235Z 12005KT 10SM CLR 12/07 A2998 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "6:55 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "18",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "10:55 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "22",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"10.0", "tempi":"50.0","dewptm":"6.0", "dewpti":"42.8","hum":"76","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"140","wdire":"SE","vism":"16.1", "visi":"10.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 052255Z 14004KT 10SM CLR 10/06 A2998 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "6:56 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "18",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "10:56 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "22",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"10.0", "tempi":"50.0","dewptm":"6.1", "dewpti":"43.0","hum":"77","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"150","wdire":"SSE","vism":"16.1", "visi":"10.0","pressurem":"1015.2", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 052256Z AUTO 15010KT 10SM CLR 10/06 A2998 RMK AO2 SLP152 T01000061" },
+		{
+		"date": {
+		"pretty": "7:15 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "19",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "11:15 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "23",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"9.0", "tempi":"48.2","dewptm":"6.0", "dewpti":"42.8","hum":"82","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"170","wdire":"South","vism":"16.1", "visi":"10.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 052315Z 17005KT 10SM CLR 09/06 A2998 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "7:35 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "19",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "11:35 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "23",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"9.0", "tempi":"48.2","dewptm":"6.0", "dewpti":"42.8","hum":"82","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"16.1", "visi":"10.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 052335Z VRB06KT 10SM CLR 09/06 A2998 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "7:55 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "19",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "11:55 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "23",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"6.0", "dewpti":"42.8","hum":"87","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"130","wdire":"SE","vism":"16.1", "visi":"10.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"6.4", "windchilli":"43.5","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 052355Z 13005KT 10SM CLR 08/06 A2998 RMK AO2 SLP300 10170 20080 401701610 52017 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "7:56 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "19",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "11:56 PM GMT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "23",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"8.3", "tempi":"46.9","dewptm":"5.6", "dewpti":"42.1","hum":"83","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"16.1", "visi":"10.0","pressurem":"1015.3", "pressurei":"29.99","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 052356Z AUTO VRB04KT 10SM CLR 08/06 A2999 RMK AO2 SLP153 T00830056 10167 20083 51020" },
+		{
+		"date": {
+		"pretty": "8:15 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "20",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "12:15 AM GMT on April 06, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "06",
+		"hour": "00",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"6.0", "dewpti":"42.8","hum":"87","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"130","wdire":"SE","vism":"16.1", "visi":"10.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"5.5", "windchilli":"41.9","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 060015Z 13008KT 10SM CLR 08/06 A2999 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "8:35 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "20",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "12:35 AM GMT on April 06, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "06",
+		"hour": "00",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"6.0", "dewpti":"42.8","hum":"87","wspdm":"7.4", "wspdi":"4.6","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"100","wdire":"East","vism":"16.1", "visi":"10.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"6.8", "windchilli":"44.3","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Partly Cloudy","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 060035Z 10004KT 10SM FEW011 08/06 A3000 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "8:55 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "20",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "12:55 AM GMT on April 06, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "06",
+		"hour": "00",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"6.0", "dewpti":"42.8","hum":"87","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"60","wdire":"ENE","vism":"16.1", "visi":"10.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"5.8", "windchilli":"42.4","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 060055Z 06007KT 030V110 10SM CLR 08/06 A2999 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "8:56 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "20",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "12:56 AM GMT on April 06, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "06",
+		"hour": "00",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"8.3", "tempi":"46.9","dewptm":"5.6", "dewpti":"42.1","hum":"83","wspdm":"9.3", "wspdi":"5.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"16.1", "visi":"10.0","pressurem":"1015.7", "pressurei":"30.00","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 060056Z AUTO VRB05KT 10SM CLR 08/06 A3000 RMK AO2 SLP157 T00830056" },
+		{
+		"date": {
+		"pretty": "9:15 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "21",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "1:15 AM GMT on April 06, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "06",
+		"hour": "01",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"6.0", "dewpti":"42.8","hum":"87","wspdm":"5.6", "wspdi":"3.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"0","wdire":"Variable","vism":"16.1", "visi":"10.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"7.3", "windchilli":"45.2","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Partly Cloudy","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 060115Z VRB03KT 10SM FEW010 08/06 A3001 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "9:35 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "21",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "1:35 AM GMT on April 06, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "06",
+		"hour": "01",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"6.0", "dewpti":"42.8","hum":"87","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"140","wdire":"SE","vism":"16.1", "visi":"10.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"5.5", "windchilli":"41.9","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 060135Z 14008KT 10SM CLR 08/06 A3002 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "9:55 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "21",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "1:55 AM GMT on April 06, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "06",
+		"hour": "01",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"6.0", "dewpti":"42.8","hum":"87","wspdm":"11.1", "wspdi":"6.9","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"70","wdire":"ENE","vism":"16.1", "visi":"10.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"6.1", "windchilli":"42.9","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 060155Z 07006KT 10SM CLR 08/06 A2999 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "9:56 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "21",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "1:56 AM GMT on April 06, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "06",
+		"hour": "01",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"8.3", "tempi":"46.9","dewptm":"5.6", "dewpti":"42.1","hum":"83","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"60","wdire":"ENE","vism":"16.1", "visi":"10.0","pressurem":"1015.5", "pressurei":"29.99","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 060156Z AUTO 06008KT 030V090 10SM CLR 08/06 A2999 RMK AO2 SLP155 T00830056" },
+		{
+		"date": {
+		"pretty": "10:15 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "22",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "2:15 AM GMT on April 06, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "06",
+		"hour": "02",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"6.0", "dewpti":"42.8","hum":"87","wspdm":"14.8", "wspdi":"9.2","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"110","wdire":"ESE","vism":"16.1", "visi":"10.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"5.5", "windchilli":"41.9","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 060215Z 11008KT 070V150 10SM CLR 08/06 A2999 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "10:35 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "22",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "2:35 AM GMT on April 06, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "06",
+		"hour": "02",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"6.0", "dewpti":"42.8","hum":"87","wspdm":"22.2", "wspdi":"13.8","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"50","wdire":"NE","vism":"16.1", "visi":"10.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"4.6", "windchilli":"40.4","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Clear","icon":"clear","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 060235Z 05012KT 10SM CLR 08/06 A2997 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "10:55 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "22",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "2:55 AM GMT on April 06, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "06",
+		"hour": "02",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"6.0", "dewpti":"42.8","hum":"87","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"60","wdire":"ENE","vism":"16.1", "visi":"10.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"5.0", "windchilli":"41.1","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Partly Cloudy","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 060255Z 06010KT 10SM FEW013 08/06 A2998 RMK AO2 SLP300 54000 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "10:56 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "22",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "2:56 AM GMT on April 06, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "06",
+		"hour": "02",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"8.3", "tempi":"46.9","dewptm":"5.6", "dewpti":"42.1","hum":"83","wspdm":"20.4", "wspdi":"12.7","wgustm":"29.6", "wgusti":"18.4","wdird":"60","wdire":"ENE","vism":"16.1", "visi":"10.0","pressurem":"1015.0", "pressurei":"29.98","windchillm":"-999", "windchilli":"-999","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Partly Cloudy","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 060256Z AUTO 06011G16KT 030V100 10SM FEW013 08/06 A2998 RMK AO2 SLP150 T00830056 58003" },
+		{
+		"date": {
+		"pretty": "11:15 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "23",
+		"min": "15",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "3:15 AM GMT on April 06, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "06",
+		"hour": "03",
+		"min": "15",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"6.0", "dewpti":"42.8","hum":"87","wspdm":"13.0", "wspdi":"8.1","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"160","wdire":"SSE","vism":"12.9", "visi":"8.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"5.8", "windchilli":"42.4","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Partly Cloudy","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 060315Z 16007KT 8SM FEW013 08/06 A3000 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "11:35 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "23",
+		"min": "35",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "3:35 AM GMT on April 06, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "06",
+		"hour": "03",
+		"min": "35",
+		"tzname": "UTC"
+		},
+		"tempm":"8.0", "tempi":"46.4","dewptm":"5.0", "dewpti":"41.0","hum":"81","wspdm":"20.4", "wspdi":"12.7","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"140","wdire":"SE","vism":"6.4", "visi":"4.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"4.8", "windchilli":"40.7","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Scattered Clouds","icon":"partlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 060335Z 14011KT 100V160 4SM SCT013 08/05 A3001 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "11:42 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "23",
+		"min": "42",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "3:42 AM GMT on April 06, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "06",
+		"hour": "03",
+		"min": "42",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"5.0", "dewpti":"41.0","hum":"87","wspdm":"24.1", "wspdi":"15.0","wgustm":"31.5", "wgusti":"19.6","wdird":"130","wdire":"SE","vism":"11.3", "visi":"7.0","pressurem":"1016.1", "pressurei":"30.01","windchillm":"3.2", "windchilli":"37.8","heatindexm":"-9999", "heatindexi":"-9999","precipm":"0.0", "precipi":"0.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"SPECI KJRB 060342Z AUTO 13013G17KT 7SM BKN011 07/05 A3001 RMK AO2 RAB27E37 CIG 009V013 P0000" },
+		{
+		"date": {
+		"pretty": "11:55 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "23",
+		"min": "55",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "3:55 AM GMT on April 06, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "06",
+		"hour": "03",
+		"min": "55",
+		"tzname": "UTC"
+		},
+		"tempm":"7.0", "tempi":"44.6","dewptm":"5.0", "dewpti":"41.0","hum":"87","wspdm":"18.5", "wspdi":"11.5","wgustm":"-9999.0", "wgusti":"-9999.0","wdird":"90","wdire":"East","vism":"9.7", "visi":"6.0","pressurem":"1030.0", "pressurei":"30.42","windchillm":"3.8", "windchilli":"38.8","heatindexm":"-9999", "heatindexi":"-9999","precipm":"-9999.00", "precipi":"-9999.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 060355Z 09010KT 040V120 6SM BKN011 07/05 A3000 RMK AO2 SLP300 PWINO FZRANO RVRNO" },
+		{
+		"date": {
+		"pretty": "11:56 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "23",
+		"min": "56",
+		"tzname": "America/New_York"
+		},
+		"utcdate": {
+		"pretty": "3:56 AM GMT on April 06, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "06",
+		"hour": "03",
+		"min": "56",
+		"tzname": "UTC"
+		},
+		"tempm":"7.2", "tempi":"45.0","dewptm":"5.0", "dewpti":"41.0","hum":"86","wspdm":"14.8", "wspdi":"9.2","wgustm":"25.9", "wgusti":"16.1","wdird":"70","wdire":"ENE","vism":"9.7", "visi":"6.0","pressurem":"1015.7", "pressurei":"30.00","windchillm":"4.5", "windchilli":"40.1","heatindexm":"-9999", "heatindexi":"-9999","precipm":"0.0", "precipi":"0.00","conds":"Mostly Cloudy","icon":"mostlycloudy","fog":"0","rain":"0","snow":"0","hail":"0","thunder":"0","tornado":"0","metar":"METAR KJRB 060356Z AUTO 07008G14KT 6SM BR BKN009 07/05 A3000 RMK AO2 RAB27E37 SLP157 P0000 T00720050" }
+		],
+		"dailysummary": [
+		{ "date": {
+		"pretty": "12:00 PM EDT on April 05, 2017",
+		"year": "2017",
+		"mon": "04",
+		"mday": "05",
+		"hour": "12",
+		"min": "00",
+		"tzname": "America/New_York"
+		},
+		"fog":"1","rain":"0","snow":"0","snowfallm":"0.00", "snowfalli":"0.00","monthtodatesnowfallm":"", "monthtodatesnowfalli":"","since1julsnowfallm":"", "since1julsnowfalli":"","snowdepthm":"", "snowdepthi":"","hail":"0","thunder":"0","tornado":"0","meantempm":"12", "meantempi":"53","meandewptm":"7", "meandewpti":"44","meanpressurem":"1019", "meanpressurei":"30.08","meanwindspdm":"6", "meanwindspdi":"4","meanwdire":"","meanwdird":"222","meanvism":"8", "meanvisi":"5","humidity":"","maxtempm":"17", "maxtempi":"62","mintempm":"7", "mintempi":"44","maxhumidity":"100","minhumidity":"52","maxdewptm":"8", "maxdewpti":"46","mindewptm":"5", "mindewpti":"41","maxpressurem":"1030", "maxpressurei":"30.42","minpressurem":"1008", "minpressurei":"29.76","maxwspdm":"24", "maxwspdi":"15","minwspdm":"0", "minwspdi":"0","maxvism":"16", "maxvisi":"10","minvism":"0", "minvisi":"0","gdegreedays":"3","heatingdegreedays":"12","coolingdegreedays":"0","precipm":"0.25", "precipi":"0.01","precipsource":"","heatingdegreedaysnormal":"","monthtodateheatingdegreedays":"","monthtodateheatingdegreedaysnormal":"","since1sepheatingdegreedays":"","since1sepheatingdegreedaysnormal":"","since1julheatingdegreedays":"","since1julheatingdegreedaysnormal":"","coolingdegreedaysnormal":"","monthtodatecoolingdegreedays":"","monthtodatecoolingdegreedaysnormal":"","since1sepcoolingdegreedays":"","since1sepcoolingdegreedaysnormal":"","since1jancoolingdegreedays":"","since1jancoolingdegreedaysnormal":"" }
+		]
+	}
+}
