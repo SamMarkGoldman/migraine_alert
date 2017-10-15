@@ -1,5 +1,4 @@
 require 'net/http'
-require 'json'
 
 module Weather
   class HistoricPressure
