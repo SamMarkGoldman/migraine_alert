@@ -7,8 +7,8 @@ module Weather
     end
 
     def fetch
-      # json = Net::HTTP.get(uri)
-      json = File.read('sample.json')
+      json = Net::HTTP.get(uri)
+      # json = File.read('sample.json')
       response = JSON.parse(json)
       response['history']['observations'].map do |measurement|
         {
