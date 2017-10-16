@@ -24,5 +24,7 @@ while date < today || request_count >= Config::Weather::MAX_REQUESTS_DAY
   request_count += 1
 
   puts 'another'
-  sleep(reqest_interval - (Time.new - start_time))
+  delay = reqest_interval - (Time.new - start_time)
+  delay = delay > 0 ? delay : 0
+  sleep(delay)
 end
