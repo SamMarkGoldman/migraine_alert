@@ -1,4 +1,5 @@
 config.rb
 history.json
 window_data.json
+last_message.data
 historic_data/
