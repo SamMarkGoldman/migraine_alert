@@ -5,10 +5,11 @@ require 'time'
 module Weather
   class Reading
     SECONDS_IN_DAY = (24 * 60 * 60.0)
+    HPA_IN_INHG = 33.863886666667
 
     attr_reader :time, :pressure
 
-    URI = URI("http://api.wunderground.com/api/#{::Config::Weather::API_KEY}/conditions/q/#{::Config::Weather::STATE}/#{::Config::Weather::CITY}.json")
+    URI = URI("https://api.darksky.net/forecast/#{::Config::Weather::API_KEY}/#{::Config::Weather::LAT_LON}")
 
     def self.from_hash(h)
       self.new(epoch: h['time'], pressure: h['pressure'])
@@ -22,8 +23,8 @@ module Weather
       json = Net::HTTP.get(URI)
       response = JSON.parse(json)
 
-      epoch = response['current_observation']['observation_epoch']
-      pressure = response['current_observation']['pressure_in']
+      epoch = response['currently']['time']
+      pressure = response['currently']['pressure'] / HPA_IN_INHG
       self.new(epoch: epoch, pressure: pressure)
     end
 

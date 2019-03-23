@@ -1,5 +1,12 @@
 require 'net/http'
 
+############################################################################################################
+# This file is basically deprecated because wunderground turned off their API.
+# new APIs to try:
+# https://darksky.net/dev (used for current pressure)
+# https://openweathermap.org/api (has historic too, but current for free is only updated every other hour)
+############################################################################################################
+
 module Weather
   class HistoricPressure
     def initialize(date)
